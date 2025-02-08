@@ -25,7 +25,7 @@ ComicCrafter AI is a generative AI-based comic generator that creates comic-styl
 ### Steps
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/ratrester/ComicCrafter-AI.git
+   git clone https://github.com/ratrester/ComicCrafterAI.git
    cd ComicCrafter-AI
    ```
 2. **Create and activate a virtual environment** (optional but recommended)
