@@ -11,9 +11,6 @@ ComicCrafter AI is a generative AI-based comic generator that creates comic-styl
 
 ## Features
 - **Story Generation**: Uses LLMs to generate a structured comic story.
-
-
-
 - **Image Generation**: Creates comic-style illustrations using Stable Diffusion.
 - **Story & Image Integration**: Merges generated text and images into a structured comic format.
 - **Web Application**: User-friendly interface built with Streamlit.
@@ -28,7 +25,7 @@ ComicCrafter AI is a generative AI-based comic generator that creates comic-styl
 ### Steps
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/ComicCrafter-AI.git
+   git clone https://github.com/ratrester/ComicCrafter-AI.git
    cd ComicCrafter-AI
    ```
 2. **Create and activate a virtual environment** (optional but recommended)
@@ -36,11 +33,12 @@ ComicCrafter AI is a generative AI-based comic generator that creates comic-styl
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
-3. **Install dependencies**
+3. **Installation of dependencies**
    ```sh
-   pip install -r requirements.txt
+   Anything required
    ```
-4. **Run the application**
+  
+5. **Run the application**
    ```sh
    streamlit run app.py
    ```
@@ -57,9 +55,3 @@ ComicCrafter AI is a generative AI-based comic generator that creates comic-styl
 - **Programming Language**: Python
 - **Frameworks & Deployment**: Streamlit
 
-## Contribution
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -m 'Add new feature'`).
-4. Push to your branch (`git push origin feature-branch`).
-5. Open a pull request.
